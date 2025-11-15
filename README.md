@@ -1,5 +1,5 @@
-**SPX Iron Condor — Edge vs Baseline Band Model (band ≤ 1.0%)
-**
+SPX Iron Condor — Edge vs Baseline Band Model (band ≤ 1.0%)
+
 This model is a 1-day SPX iron condor forecaster. For each trading day it decides whether to trade a very tight symmetric band around SPX for the next session, or stay flat. When it trades, it predicts that tomorrow’s close will stay inside:
 
 ```
