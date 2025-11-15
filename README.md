@@ -1,4 +1,3 @@
-````markdown
 ### SPX Iron Condor – Edge-vs-Baseline Band Model (band ≤ 1%)
 
 **Description**  
