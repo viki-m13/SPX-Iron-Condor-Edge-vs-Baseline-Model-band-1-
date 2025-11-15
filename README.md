@@ -24,8 +24,8 @@ and only trades on those days.
   \]  
   This is the **lift in win rate** the model provides versus blindly trading the same band every day.
 
-**Best configuration (band_pct = 0.006 = ±0.6%)**  
-```json
+**Best configuration (band_pct = 0.006 = ±0.6%)**
+
 {
   "band_pct": 0.006,
   "avgabs_window": 3,
